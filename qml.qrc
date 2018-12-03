@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Footer.qml</file>
+        <file>FooterButton.qml</file>
+        <file>Sidebar.qml</file>
+        <file>ListItem.qml</file>
+        <file>qmldir</file>
+        <file>Label.qml</file>
+    </qresource>
+    <qresource prefix="/pages"/>
+</RCC>
